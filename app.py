@@ -141,7 +141,7 @@ with st.sidebar:
         st.text_input("Enter Model API Key", type="password", help="Plug in key to test on new screenplays")
 
     st.markdown("---")
-    st.caption("Kuku AI Generalist Assignment\nAuthor: Sudhir Kumar")
+    st.caption("Kuku AI Generalist Assignment\nAuthor: Kumar Aryan (Roll: 23065060)\nDept: Civil Engineering")
 
 # ----------------- MAIN VIEW -----------------
 st.markdown('<div class="hero-header">🎬 Kuku AI Microdrama Promo Studio</div>', unsafe_allow_html=True)

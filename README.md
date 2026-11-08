@@ -3,7 +3,7 @@
 > **Kuku — AI Generalist Assignment Submission**  
 > **Problem 1:** Find the Promos (Ads)  
 > **Show Analyzed:** *I Married a Broken Soldier. He was a Duke* (First 50 Episodes)  
-> **Author:** Sudhir Kumar
+> **Candidate:** Kumar Aryan (Roll: 23065060, Dept: Civil Engineering)
 
 ---
 

@@ -2,6 +2,7 @@
 
 > **Assignment:** Kuku — AI Generalist Assignment  
 > **Problem 1:** Find the Promos (Ads)  
+> **Candidate:** Kumar Aryan (Roll: 23065060, Civil Engineering)  
 > **Target Duration:** 2 minutes 45 seconds – 3 minutes  
 > **Recommended Tools:** Loom, OBS, or QuickTime / Windows Game Bar (`Win + Alt + R`)
 
@@ -13,7 +14,7 @@
 **Screen to Show:** Terminal running `python run_all.py` OR the top KPI banner in the Streamlit App (`streamlit run app.py`).
 
 **Spoken Script:**
-> *"Hi everyone, I'm Sudhir Kumar. For this assignment, I tackled **Problem 1: Find the Promos**.*  
+> *"Hi everyone, I'm Kumar Aryan, Roll Number 23065060 from Civil Engineering. For this assignment, I tackled **Problem 1: Find the Promos**.*  
 > *In the vertical microdrama space—apps like Kuku, ReelShort, and DramaBox—short-form video ads on TikTok and Reels are the lifeblood of customer acquisition. But today, editors spend 4 to 6 hours per series manually watching 50 to 100 episodes to find promo moments.*  
 > *I built an autonomous, two-stage AI promo finder that ingests raw screenplays, detects visceral 3-second hooks, scores unresolved cliffhangers, and schedules a phased ad rollout.*  
 > *As you can see right here, our engine processed all 50 episodes of 'I Married a Broken Soldier. He was a Duke' in just **4.85 seconds**, discovering **103 ranked promos** with a **92.2% broadcast approval rate**."*

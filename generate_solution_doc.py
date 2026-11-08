@@ -202,8 +202,9 @@ html_content = """<!DOCTYPE html>
     </div>
     <div class="header-meta">
       <strong>Kuku AI Generalist Assignment</strong><br>
-      Problem 1: Find the Promos (Ads)<br>
-      Input: 50 Episodes (English / US Audience)
+      Candidate: <strong>Kumar Aryan</strong> (Roll: 23065060)<br>
+      Branch: <strong>Civil Engineering</strong><br>
+      Problem 1: Find the Promos | Show: 50 Episodes
     </div>
   </div>
 
@@ -280,7 +281,7 @@ html_content = """<!DOCTYPE html>
   </div>
 
   <div class="footer">
-    <span>Kuku AI Generalist Assignment | Candidate: Sudhir Kumar</span>
+    <span>Kuku AI Generalist Assignment | Candidate: Kumar Aryan (Roll: 23065060, Civil Engg)</span>
     <span>Page 1 of 2</span>
   </div>
 </div>
@@ -294,7 +295,8 @@ html_content = """<!DOCTYPE html>
     </div>
     <div class="header-meta">
       <strong>Distribution & Quality Audit</strong><br>
-      Show: <em>I Married a Broken Soldier. He was a Duke</em>
+      Show: <em>I Married a Broken Soldier. He was a Duke</em><br>
+      Candidate: <strong>Kumar Aryan</strong> (Roll: 23065060)
     </div>
   </div>
 
@@ -401,7 +403,7 @@ html_content = """<!DOCTYPE html>
   </div>
 
   <div class="footer">
-    <span>Kuku AI Generalist Assignment | Candidate: Sudhir Kumar</span>
+    <span>Kuku AI Generalist Assignment | Candidate: Kumar Aryan (Roll: 23065060, Civil Engg)</span>
     <span>Page 2 of 2</span>
   </div>
 </div>
