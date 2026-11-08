@@ -18,6 +18,10 @@ html_content = """<!DOCTYPE html>
   @page {
     size: A4 portrait;
     margin: 10mm 12mm 10mm 12mm;
+    @top-left { content: none !important; }
+    @top-right { content: none !important; }
+    @bottom-left { content: none !important; }
+    @bottom-right { content: none !important; }
   }
   * {
     box-sizing: border-box;
@@ -441,6 +445,7 @@ if browser_exe:
         "--headless=new",
         "--disable-gpu",
         "--no-sandbox",
+        "--no-pdf-header-footer",
         "--disable-dev-shm-usage",
         f"--print-to-pdf={pdf_path}",
         html_path
