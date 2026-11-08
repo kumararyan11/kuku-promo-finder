@@ -1,0 +1,124 @@
+[
+  {
+    "episode": 41,
+    "promo_type": "single_continuous",
+    "total_duration": 47.6,
+    "start_time": "00:31.70",
+    "end_time": "01:19.30",
+    "segments": [
+      {
+        "episode": 41,
+        "start_time": "00:31.70",
+        "end_time": "01:19.30",
+        "duration": 47.6
+      }
+    ],
+    "hook": {
+      "score": 9.5,
+      "type": "High-Conflict Confrontation",
+      "description": "NOBLEMAN: \"She actually came back to the chapel.\"",
+      "analysis": "Strong High-Conflict Confrontation: NOBLEMAN: \"She actually came back to the chapel.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.5,
+      "description": "PRIEST: \"Shall we?\"",
+      "analysis": "Unresolved tension: PRIEST: \"Shall we?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 9.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 8.9,
+    "composite_score": 87.1,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('NOBLEMAN: \"She actually came back to the chapel.\"'), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on PRIEST: \"Shall we?\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 34,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": false,
+      "qa_verdict": "REQUIRES EDITOR OVERRIDE",
+      "detected_failures": [
+        {
+          "error_type": "Dangling Pronoun Ambiguity",
+          "severity": "HIGH",
+          "detail": "Clip opens cold on pronoun 'SHE' ('She actually came back to the chapel....'). Cold TikTok viewer has no character antecedent.",
+          "fix": "Shift start boundary backward by 2-4s to include character name introduction or start on preceding wide establishing shot."
+        },
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Shall we?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Pad start by -2.5s to establish character subject.",
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 41,
+    "promo_type": "single_continuous",
+    "total_duration": 35.0,
+    "start_time": "00:01.80",
+    "end_time": "00:36.80",
+    "segments": [
+      {
+        "episode": 41,
+        "start_time": "00:01.80",
+        "end_time": "00:36.80",
+        "duration": 35.0
+      }
+    ],
+    "hook": {
+      "score": 9.5,
+      "type": "Physical/Action Disruption",
+      "description": "Catherine abruptly pulls away from Rupert and raises her white-gloved hand high, commandin",
+      "analysis": "Strong Physical/Action Disruption: Catherine abruptly pulls away from Rupert and raises her white-gloved hand high, commandin. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 4.5,
+      "description": "NOBLEWOMAN: \"Not as a bride this time.\"",
+      "analysis": "Unresolved tension: NOBLEWOMAN: \"Not as a bride this time.\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 80.55,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('Catherine abruptly pulls away from Rupert and raises her white-gloved hand high, commandin'), clearly establishes the Betrayed Wedding, Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on NOBLEWOMAN: \"Not as a bride this time.\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 56,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Not as a bride this time.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "episode": 31,
+    "promo_type": "single_continuous",
+    "total_duration": 42.5,
+    "start_time": "00:09.50",
+    "end_time": "00:52.00",
+    "segments": [
+      {
+        "episode": 31,
+        "start_time": "00:09.50",
+        "end_time": "00:52.00",
+        "duration": 42.5
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "CATHERINE: \"The great Lady Juliana Ashcroft.\"",
+      "analysis": "Strong High-Conflict Confrontation: CATHERINE: \"The great Lady Juliana Ashcroft.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 9.5,
+      "description": "CATHERINE: \"Do you remember?\"",
+      "analysis": "Unresolved tension: CATHERINE: \"Do you remember?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 98.2,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('CATHERINE: \"The great Lady Juliana Ashcroft.\"'), clearly establishes the Betrayed Wedding, Cruel Family / Disownment conflict for cold viewers, and cuts at maximum tension on CATHERINE: \"Do you remember?\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 3,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  },
+  {
+    "episode": 31,
+    "promo_type": "single_continuous",
+    "total_duration": 33.8,
+    "start_time": "01:17.60",
+    "end_time": "01:51.40",
+    "segments": [
+      {
+        "episode": 31,
+        "start_time": "01:17.60",
+        "end_time": "01:51.40",
+        "duration": 33.8
+      }
+    ],
+    "hook": {
+      "score": 8.5,
+      "type": "High-Conflict Confrontation",
+      "description": "CATHERINE: \"You call that marriage?\"",
+      "analysis": "Strong High-Conflict Confrontation: CATHERINE: \"You call that marriage?\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.5,
+      "description": "CATHERINE: \"[scoffs] Peasants? People?\"",
+      "analysis": "Unresolved tension: CATHERINE: \"[scoffs] Peasants? People?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 7.0,
+    "themes": [
+      "Cruel Family / Disownment"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 80.95,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('CATHERINE: \"You call that marriage?\"'), clearly establishes the Cruel Family / Disownment conflict for cold viewers, and cuts at maximum tension on CATHERINE: \"[scoffs] Peasants? People?\" to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 55,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 3: Deep Mid-Series Escalation & Paywall Retargeting (Post Day 6+)",
+    "recommended_platform": "Meta Ads & TikTok Retargeting",
+    "posting_rationale": "Post THIRD. High-stakes conspiracy, poisonings, and estate battles re-engage warm users and push viewers past the free episode paywall.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('[scoffs] Peasants? People?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

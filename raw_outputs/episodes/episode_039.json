@@ -1,0 +1,115 @@
+[
+  {
+    "episode": 39,
+    "promo_type": "single_continuous",
+    "total_duration": 21.7,
+    "start_time": "01:08.50",
+    "end_time": "01:30.20",
+    "segments": [
+      {
+        "episode": 39,
+        "start_time": "01:08.50",
+        "end_time": "01:30.20",
+        "duration": 21.7
+      }
+    ],
+    "hook": {
+      "score": 7.0,
+      "type": "Physical/Action Disruption",
+      "description": "Alexander emerges in full ducal splendor\u2014dressed in an immaculate navy tailcoat lined with",
+      "analysis": "Strong Physical/Action Disruption: Alexander emerges in full ducal splendor\u2014dressed in an immaculate navy tailcoat lined with. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 4.5,
+      "description": "ALEXANDER: \"No more hiding.\"",
+      "analysis": "Unresolved tension: ALEXANDER: \"No more hiding.\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 7.0,
+    "themes": [
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 8.9,
+    "composite_score": 65.35,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('Alexander emerges in full ducal splendor\u2014dressed in an immaculate navy tailcoat lined with'), clearly establishes the Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on ALEXANDER: \"No more hiding.\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 98,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('I am taking back my house.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 39,
+    "promo_type": "single_continuous",
+    "total_duration": 25.0,
+    "start_time": "00:24.20",
+    "end_time": "00:49.20",
+    "segments": [
+      {
+        "episode": 39,
+        "start_time": "00:24.20",
+        "end_time": "00:49.20",
+        "duration": 25.0
+      }
+    ],
+    "hook": {
+      "score": 2.0,
+      "type": "Shock Dialogue",
+      "description": "A lone driver in rugged attire guides the horse cart slowly toward the sentries guarding t",
+      "analysis": "Strong Shock Dialogue: A lone driver in rugged attire guides the horse cart slowly toward the sentries guarding t. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 4.5,
+      "description": "LOYALIST FIGHTER: \"Tell the Duke.\"",
+      "analysis": "Unresolved tension: LOYALIST FIGHTER: \"Tell the Duke.\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 7.5,
+    "themes": [
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 49.3,
+    "why_it_works": "Instantly stops scrolling with shock dialogue ('A lone driver in rugged attire guides the horse cart slowly toward the sentries guarding t'), clearly establishes the Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on LOYALIST FIGHTER: \"Tell the Duke.\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 103,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Tell the Duke.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

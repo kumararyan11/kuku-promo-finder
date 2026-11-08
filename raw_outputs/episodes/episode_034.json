@@ -1,0 +1,116 @@
+[
+  {
+    "episode": 34,
+    "promo_type": "single_continuous",
+    "total_duration": 51.9,
+    "start_time": "00:35.30",
+    "end_time": "01:27.20",
+    "segments": [
+      {
+        "episode": 34,
+        "start_time": "00:35.30",
+        "end_time": "01:27.20",
+        "duration": 51.9
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Physical/Action Disruption",
+      "description": "The Judge furiously raises his wooden gavel and strikes the sound block with sharp force.",
+      "analysis": "Strong Physical/Action Disruption: The Judge furiously raises his wooden gavel and strikes the sound block with sharp force.. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.5,
+      "description": "LORD: \"Your Honor... the witness has confirmed the ritual.\"",
+      "analysis": "Unresolved tension: LORD: \"Your Honor... the witness has confirmed the ritual.\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 8.5,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 8.3,
+    "composite_score": 83.95,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('The Judge furiously raises his wooden gavel and strikes the sound block with sharp force.'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on LORD: \"Your Honor... the witness has confirmed the ritual.\" to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 45,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('It was not a ritual!') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 34,
+    "promo_type": "single_continuous",
+    "total_duration": 54.5,
+    "start_time": "01:47.30",
+    "end_time": "02:41.80",
+    "segments": [
+      {
+        "episode": 34,
+        "start_time": "01:47.30",
+        "end_time": "02:41.80",
+        "duration": 54.5
+      }
+    ],
+    "hook": {
+      "score": 8.5,
+      "type": "High-Conflict Confrontation",
+      "description": "LORD: \"She calls it healing.\"",
+      "analysis": "Strong High-Conflict Confrontation: LORD: \"She calls it healing.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 8.0,
+      "description": "JUDGE: \"You understand that refusal may be treated as proof that you knowingly\"",
+      "analysis": "Unresolved tension: JUDGE: \"You understand that refusal may be treated as proof that you knowingly\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 8.5,
+    "themes": [
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 8.3,
+    "composite_score": 83.2,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('LORD: \"She calls it healing.\"'), clearly establishes the Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on JUDGE: \"You understand that refusal may be treated as proof that you knowingly\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 48,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('you knowingly practiced witchcraft?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

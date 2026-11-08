@@ -1,0 +1,116 @@
+[
+  {
+    "episode": 6,
+    "promo_type": "single_continuous",
+    "total_duration": 27.7,
+    "start_time": "00:00.00",
+    "end_time": "00:27.70",
+    "segments": [
+      {
+        "episode": 6,
+        "start_time": "00:00.00",
+        "end_time": "00:27.70",
+        "duration": 27.7
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Physical/Action Disruption",
+      "description": "Juliana lifts the hem of her white satin wedding gown to keep it out of the pooling mud, s",
+      "analysis": "Strong Physical/Action Disruption: Juliana lifts the hem of her white satin wedding gown to keep it out of the pooling mud, s. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 5.5,
+      "description": "JULIANA: \"That is it?\"",
+      "analysis": "Unresolved tension: JULIANA: \"That is it?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 85.3,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('Juliana lifts the hem of her white satin wedding gown to keep it out of the pooling mud, s'), clearly establishes the Betrayed Wedding, Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on JULIANA: \"That is it?\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 41,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('That is it?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 6,
+    "promo_type": "single_continuous",
+    "total_duration": 52.9,
+    "start_time": "00:43.30",
+    "end_time": "01:36.20",
+    "segments": [
+      {
+        "episode": 6,
+        "start_time": "00:43.30",
+        "end_time": "01:36.20",
+        "duration": 52.9
+      }
+    ],
+    "hook": {
+      "score": 7.0,
+      "type": "Physical/Action Disruption",
+      "description": "MYSTERIOUS BEARDED MAN: \"You came from comfort.\"",
+      "analysis": "Strong Physical/Action Disruption: MYSTERIOUS BEARDED MAN: \"You came from comfort.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.5,
+      "description": "MYSTERIOUS BEARDED MAN: \"It is not much.\"",
+      "analysis": "Unresolved tension: MYSTERIOUS BEARDED MAN: \"It is not much.\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 7.5,
+    "themes": [
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 8.3,
+    "composite_score": 71.45,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('MYSTERIOUS BEARDED MAN: \"You came from comfort.\"'), clearly establishes the Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on MYSTERIOUS BEARDED MAN: \"It is not much.\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 85,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('It is enough for tonight.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "episode": 35,
+    "promo_type": "single_continuous",
+    "total_duration": 38.5,
+    "start_time": "01:27.00",
+    "end_time": "02:05.50",
+    "segments": [
+      {
+        "episode": 35,
+        "start_time": "01:27.00",
+        "end_time": "02:05.50",
+        "duration": 38.5
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "Alexander's scarred finger points to a red-circled location on the parchment map marked ne",
+      "analysis": "Strong High-Conflict Confrontation: Alexander's scarred finger points to a red-circled location on the parchment map marked ne. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.5,
+      "description": "ALEXANDER'S MOTHER: \"Then why did they never tell us?\"",
+      "analysis": "Unresolved tension: ALEXANDER'S MOTHER: \"Then why did they never tell us?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 8.5,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 89.2,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('Alexander's scarred finger points to a red-circled location on the parchment map marked ne'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on ALEXANDER'S MOTHER: \"Then why did they never tell us?\" to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 31,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Then why did they never tell us?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 35,
+    "promo_type": "single_continuous",
+    "total_duration": 23.5,
+    "start_time": "02:14.00",
+    "end_time": "02:37.50",
+    "segments": [
+      {
+        "episode": 35,
+        "start_time": "02:14.00",
+        "end_time": "02:37.50",
+        "duration": 23.5
+      }
+    ],
+    "hook": {
+      "score": 8.5,
+      "type": "Physical/Action Disruption",
+      "description": "Alexander abruptly pushes away from the window, storming back toward the table with burnin",
+      "analysis": "Strong Physical/Action Disruption: Alexander abruptly pushes away from the window, storming back toward the table with burnin. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.0,
+      "description": "A sudden, ominous orchestral crescendo swells dramatically into silence.",
+      "analysis": "Unresolved tension: A sudden, ominous orchestral crescendo swells dramatically into silence.. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 8.5,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 8.9,
+    "composite_score": 78.1,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('Alexander abruptly pushes away from the window, storming back toward the table with burnin'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on A sudden, ominous orchestral crescendo swells dramatically into silence. to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 63,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  }
+]

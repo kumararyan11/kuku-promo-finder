@@ -1,0 +1,106 @@
+[
+  {
+    "episode": 37,
+    "promo_type": "single_continuous",
+    "total_duration": 39.27,
+    "start_time": "01:57.20",
+    "end_time": "02:36.47",
+    "segments": [
+      {
+        "episode": 37,
+        "start_time": "01:57.20",
+        "end_time": "02:36.47",
+        "duration": 39.27
+      }
+    ],
+    "hook": {
+      "score": 9.5,
+      "type": "Shock Dialogue",
+      "description": "NOBLEMAN: \"Do you think she'll actually be executed?\"",
+      "analysis": "Strong Shock Dialogue: NOBLEMAN: \"Do you think she'll actually be executed?\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.0,
+      "description": "A deep, ominous cello rumble builds alongside the crackle of the fireplace into ",
+      "analysis": "Unresolved tension: A deep, ominous cello rumble builds alongside the crackle of the fireplace into . Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 7.0,
+    "themes": [
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 79.95,
+    "why_it_works": "Instantly stops scrolling with shock dialogue ('NOBLEMAN: \"Do you think she'll actually be executed?\"'), clearly establishes the Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on A deep, ominous cello rumble builds alongside the crackle of the fireplace into  to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 59,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  },
+  {
+    "episode": 37,
+    "promo_type": "single_continuous",
+    "total_duration": 27.4,
+    "start_time": "00:46.80",
+    "end_time": "01:14.20",
+    "segments": [
+      {
+        "episode": 37,
+        "start_time": "00:46.80",
+        "end_time": "01:14.20",
+        "duration": 27.4
+      }
+    ],
+    "hook": {
+      "score": 6.0,
+      "type": "High-Conflict Confrontation",
+      "description": "NOBLEMAN: \"So it is finally official.\"",
+      "analysis": "Strong High-Conflict Confrontation: NOBLEMAN: \"So it is finally official.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.5,
+      "description": "NOBLEMAN: \"To whom?\"",
+      "analysis": "Unresolved tension: NOBLEMAN: \"To whom?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 8.5,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 74.3,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('NOBLEMAN: \"So it is finally official.\"'), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on NOBLEMAN: \"To whom?\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 82,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('To whom?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

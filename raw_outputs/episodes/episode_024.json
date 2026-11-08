@@ -1,0 +1,107 @@
+[
+  {
+    "episode": 24,
+    "promo_type": "single_continuous",
+    "total_duration": 23.8,
+    "start_time": "01:06.00",
+    "end_time": "01:29.80",
+    "segments": [
+      {
+        "episode": 24,
+        "start_time": "01:06.00",
+        "end_time": "01:29.80",
+        "duration": 23.8
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "Prudence steps toward the noblewoman in distress, her hands clasped tightly.",
+      "analysis": "Strong High-Conflict Confrontation: Prudence steps toward the noblewoman in distress, her hands clasped tightly.. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.5,
+      "description": "Juliana raises her head. Smudges of dark soot stain her fair cheek, but her pier",
+      "analysis": "Unresolved tension: Juliana raises her head. Smudges of dark soot stain her fair cheek, but her pier. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 9.5,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 8.3,
+    "composite_score": 85.95,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('Prudence steps toward the noblewoman in distress, her hands clasped tightly.'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on Juliana raises her head. Smudges of dark soot stain her fair cheek, but her pier to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 39,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('return. You cannot stop the healer.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 24,
+    "promo_type": "single_continuous",
+    "total_duration": 30.3,
+    "start_time": "00:03.50",
+    "end_time": "00:33.80",
+    "segments": [
+      {
+        "episode": 24,
+        "start_time": "00:03.50",
+        "end_time": "00:33.80",
+        "duration": 30.3
+      }
+    ],
+    "hook": {
+      "score": 5.5,
+      "type": "Physical/Action Disruption",
+      "description": "The noblewoman halts in the center of the chamber, tapping her riding crop against her glo",
+      "analysis": "Strong Physical/Action Disruption: The noblewoman halts in the center of the chamber, tapping her riding crop against her glo. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 10.0,
+      "description": "A sharp, stinging whip crack as the riding crop makes harsh contact.",
+      "analysis": "Unresolved tension: A sharp, stinging whip crack as the riding crop makes harsh contact.. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 7.5,
+    "themes": [
+      "Betrayed Wedding"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 78.05,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('The noblewoman halts in the center of the chamber, tapping her riding crop against her glo'), clearly establishes the Betrayed Wedding conflict for cold viewers, and cuts at maximum tension on A sharp, stinging whip crack as the riding crop makes harsh contact. to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 64,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  }
+]

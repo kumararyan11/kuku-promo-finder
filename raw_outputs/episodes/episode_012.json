@@ -1,0 +1,117 @@
+[
+  {
+    "episode": 12,
+    "promo_type": "single_continuous",
+    "total_duration": 29.5,
+    "start_time": "00:05.70",
+    "end_time": "00:35.20",
+    "segments": [
+      {
+        "episode": 12,
+        "start_time": "00:05.70",
+        "end_time": "00:35.20",
+        "duration": 29.5
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "JULIANA: \"No! That watch was not in his coat!\"",
+      "analysis": "Strong High-Conflict Confrontation: JULIANA: \"No! That watch was not in his coat!\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.5,
+      "description": "CLARISSA: \"...still defending your broken scrap of a man?\"",
+      "analysis": "Unresolved tension: CLARISSA: \"...still defending your broken scrap of a man?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 91.3,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('JULIANA: \"No! That watch was not in his coat!\"'), clearly establishes the Betrayed Wedding, Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on CLARISSA: \"...still defending your broken scrap of a man?\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 19,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('e your price, Clarissa. I know you.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 12,
+    "promo_type": "single_continuous",
+    "total_duration": 44.0,
+    "start_time": "00:29.80",
+    "end_time": "01:13.80",
+    "segments": [
+      {
+        "episode": 12,
+        "start_time": "00:29.80",
+        "end_time": "01:13.80",
+        "duration": 44.0
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Shock Dialogue",
+      "description": "CLARISSA: \"...still defending your broken scrap of a man?\"",
+      "analysis": "Strong Shock Dialogue: CLARISSA: \"...still defending your broken scrap of a man?\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 4.5,
+      "description": "ALEXANDER: \"Juliana, no. Do not let them hurt you. I can handle the law.\"",
+      "analysis": "Unresolved tension: ALEXANDER: \"Juliana, no. Do not let them hurt you. I can handle the law.\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 82.3,
+    "why_it_works": "Instantly stops scrolling with shock dialogue ('CLARISSA: \"...still defending your broken scrap of a man?\"'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on ALEXANDER: \"Juliana, no. Do not let them hurt you. I can handle the law.\" to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 51,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('hem hurt you. I can handle the law.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

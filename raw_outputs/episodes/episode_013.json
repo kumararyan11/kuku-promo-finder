@@ -1,0 +1,106 @@
+[
+  {
+    "episode": 13,
+    "promo_type": "single_continuous",
+    "total_duration": 22.3,
+    "start_time": "00:51.50",
+    "end_time": "01:13.80",
+    "segments": [
+      {
+        "episode": 13,
+        "start_time": "00:51.50",
+        "end_time": "01:13.80",
+        "duration": 22.3
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Physical/Action Disruption",
+      "description": "ALEXANDER: \"Please...\"",
+      "analysis": "Strong Physical/Action Disruption: ALEXANDER: \"Please...\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 4.5,
+      "description": "ALEXANDER: \"Please... enough!\"",
+      "analysis": "Unresolved tension: ALEXANDER: \"Please... enough!\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 8.3,
+    "composite_score": 80.95,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('ALEXANDER: \"Please...\"'), clearly establishes the Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on ALEXANDER: \"Please... enough!\" to drive app downloads.",
+    "viral_hook_caption": "POV: You realize the entire family set you up to fail.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 54,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Please... enough!') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 13,
+    "promo_type": "single_continuous",
+    "total_duration": 38.2,
+    "start_time": "00:58.80",
+    "end_time": "01:37.00",
+    "segments": [
+      {
+        "episode": 13,
+        "start_time": "00:58.80",
+        "end_time": "01:37.00",
+        "duration": 38.2
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "CLARISSA: \"The lady has finally found something worthy of her.\"",
+      "analysis": "Strong High-Conflict Confrontation: CLARISSA: \"The lady has finally found something worthy of her.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 2.5,
+      "description": "Dramatic cut at unresolved tension",
+      "analysis": "Unresolved tension: Dramatic cut at unresolved tension. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 76.3,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('CLARISSA: \"The lady has finally found something worthy of her.\"'), clearly establishes the Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on Dramatic cut at unresolved tension to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 76,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  }
+]

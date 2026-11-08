@@ -1,0 +1,106 @@
+[
+  {
+    "episode": 11,
+    "promo_type": "single_continuous",
+    "total_duration": 40.2,
+    "start_time": "01:01.80",
+    "end_time": "01:42.00",
+    "segments": [
+      {
+        "episode": 11,
+        "start_time": "01:01.80",
+        "end_time": "01:42.00",
+        "duration": 40.2
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "JULIANA: \"Please! There is nothing here!\"",
+      "analysis": "Strong High-Conflict Confrontation: JULIANA: \"Please! There is nothing here!\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 9.5,
+      "description": "Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock",
+      "analysis": "Unresolved tension: Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 97.3,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('JULIANA: \"Please! There is nothing here!\"'), clearly establishes the Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 5,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  },
+  {
+    "episode": 11,
+    "promo_type": "single_continuous",
+    "total_duration": 30.0,
+    "start_time": "00:11.10",
+    "end_time": "00:41.10",
+    "segments": [
+      {
+        "episode": 11,
+        "start_time": "00:11.10",
+        "end_time": "00:41.10",
+        "duration": 30.0
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "GERALD: \"I came for something that belongs to me.\"",
+      "analysis": "Strong High-Conflict Confrontation: GERALD: \"I came for something that belongs to me.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.5,
+      "description": "GERALD: \"You hear that? He threatens me again!\"",
+      "analysis": "Unresolved tension: GERALD: \"You hear that? He threatens me again!\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 91.3,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('GERALD: \"I came for something that belongs to me.\"'), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on GERALD: \"You hear that? He threatens me again!\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 18,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('A complaint is not proof.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

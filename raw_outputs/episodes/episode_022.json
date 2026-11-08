@@ -1,0 +1,115 @@
+[
+  {
+    "episode": 22,
+    "promo_type": "single_continuous",
+    "total_duration": 35.3,
+    "start_time": "00:49.20",
+    "end_time": "01:24.50",
+    "segments": [
+      {
+        "episode": 22,
+        "start_time": "00:49.20",
+        "end_time": "01:24.50",
+        "duration": 35.3
+      }
+    ],
+    "hook": {
+      "score": 9.0,
+      "type": "Physical/Action Disruption",
+      "description": "HOUSEKEEPER: \"She looks soft.\"",
+      "analysis": "Strong Physical/Action Disruption: HOUSEKEEPER: \"She looks soft.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 5.5,
+      "description": "LADY JULIANA: \"Where is the West Wing?\"",
+      "analysis": "Unresolved tension: LADY JULIANA: \"Where is the West Wing?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 7.5,
+    "themes": [
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 76.8,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('HOUSEKEEPER: \"She looks soft.\"'), clearly establishes the Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on LADY JULIANA: \"Where is the West Wing?\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 73,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Where is the West Wing?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 22,
+    "promo_type": "single_continuous",
+    "total_duration": 28.1,
+    "start_time": "00:00.00",
+    "end_time": "00:28.10",
+    "segments": [
+      {
+        "episode": 22,
+        "start_time": "00:00.00",
+        "end_time": "00:28.10",
+        "duration": 28.1
+      }
+    ],
+    "hook": {
+      "score": 5.5,
+      "type": "Physical/Action Disruption",
+      "description": "Lady Juliana walks nervously along the stone pavement dressed in a modest dark maid's dres",
+      "analysis": "Strong Physical/Action Disruption: Lady Juliana walks nervously along the stone pavement dressed in a modest dark maid's dres. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 5.5,
+      "description": "PRUDENCE: \"And if they discover who you are?\"",
+      "analysis": "Unresolved tension: PRUDENCE: \"And if they discover who you are?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 8.5,
+    "themes": [
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 67.45,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('Lady Juliana walks nervously along the stone pavement dressed in a modest dark maid's dres'), clearly establishes the Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on PRUDENCE: \"And if they discover who you are?\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 91,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('And if they discover who you are?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "total_promos_audited": 103,
+  "approved_for_broadcast": 95,
+  "flagged_for_human_override": 8,
+  "pass_rate_percentage": 92.2,
+  "failure_modes_distribution": {
+    "Dangling Pronoun Ambiguity": 1,
+    "Clipped Punchline Reaction": 6,
+    "False Stakes Peak (Low Protagonist Relevance)": 7
+  },
+  "honest_failure_analysis": "Automated tools reliably detect high-energy slaps and dialogue keywords, but inherently stumble on: 1) In-media-res pronoun ambiguity where an opener lacks character context, 2) Truncated reaction beats where dialogue ends without the visual reaction shot, and 3) High-conflict squabbles between minor characters that lack core series stakes. Our human-in-the-loop review interface catches and remediates these exact failure modes in seconds.",
+  "pipeline_execution_time_seconds": 4.99,
+  "episodes_processed": 50,
+  "total_promos_generated": 103
+}

@@ -1,0 +1,116 @@
+[
+  {
+    "episode": 45,
+    "promo_type": "single_continuous",
+    "total_duration": 27.0,
+    "start_time": "00:21.80",
+    "end_time": "00:48.80",
+    "segments": [
+      {
+        "episode": 45,
+        "start_time": "00:21.80",
+        "end_time": "00:48.80",
+        "duration": 27.0
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "Alexander places the ducal cloak over Juliana's rustic gown, adjusting it gently over her ",
+      "analysis": "Strong High-Conflict Confrontation: Alexander places the ducal cloak over Juliana's rustic gown, adjusting it gently over her . Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 4.5,
+      "description": "JULIANA: \"I loved you before I ever knew who you were.\"",
+      "analysis": "Unresolved tension: JULIANA: \"I loved you before I ever knew who you were.\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 82.3,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('Alexander places the ducal cloak over Juliana's rustic gown, adjusting it gently over her '), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on JULIANA: \"I loved you before I ever knew who you were.\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 52,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('ou before I ever dared to tell you.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 45,
+    "promo_type": "single_continuous",
+    "total_duration": 24.2,
+    "start_time": "00:08.80",
+    "end_time": "00:33.00",
+    "segments": [
+      {
+        "episode": 45,
+        "start_time": "00:08.80",
+        "end_time": "00:33.00",
+        "duration": 24.2
+      }
+    ],
+    "hook": {
+      "score": 6.5,
+      "type": "Shock Dialogue",
+      "description": "Opening scene hook",
+      "analysis": "Strong Shock Dialogue: Opening scene hook. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.5,
+      "description": "JULIANA: \"All this time?\"",
+      "analysis": "Unresolved tension: JULIANA: \"All this time?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 8.3,
+    "composite_score": 77.7,
+    "why_it_works": "Instantly stops scrolling with shock dialogue ('Opening scene hook'), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on JULIANA: \"All this time?\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 66,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line (' me when you believed I was nobody.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

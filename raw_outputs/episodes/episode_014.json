@@ -1,0 +1,107 @@
+[
+  {
+    "episode": 14,
+    "promo_type": "single_continuous",
+    "total_duration": 28.5,
+    "start_time": "00:00.00",
+    "end_time": "00:28.50",
+    "segments": [
+      {
+        "episode": 14,
+        "start_time": "00:00.00",
+        "end_time": "00:28.50",
+        "duration": 28.5
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Physical/Action Disruption",
+      "description": "Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the o",
+      "analysis": "Strong Physical/Action Disruption: Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the o. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.5,
+      "description": "ALEXANDER: \"What have they done to you?\"",
+      "analysis": "Unresolved tension: ALEXANDER: \"What have they done to you?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 91.3,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the o'), clearly establishes the Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on ALEXANDER: \"What have they done to you?\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 20,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Nothing they didn't promise.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 14,
+    "promo_type": "single_continuous",
+    "total_duration": 40.63,
+    "start_time": "00:47.00",
+    "end_time": "01:27.63",
+    "segments": [
+      {
+        "episode": 14,
+        "start_time": "00:47.00",
+        "end_time": "01:27.63",
+        "duration": 40.63
+      }
+    ],
+    "hook": {
+      "score": 5.0,
+      "type": "Shock Dialogue",
+      "description": "ALEXANDER: \"You could have lost your hands.\"",
+      "analysis": "Strong Shock Dialogue: ALEXANDER: \"You could have lost your hands.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.0,
+      "description": "Ominous, resonating low bass boom swelling into sudden silence as the screen cut",
+      "analysis": "Unresolved tension: Ominous, resonating low bass boom swelling into sudden silence as the screen cut. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 70.2,
+    "why_it_works": "Instantly stops scrolling with shock dialogue ('ALEXANDER: \"You could have lost your hands.\"'), clearly establishes the Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on Ominous, resonating low bass boom swelling into sudden silence as the screen cut to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 89,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  }
+]

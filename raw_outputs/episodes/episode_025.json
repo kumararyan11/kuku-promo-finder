@@ -1,0 +1,113 @@
+[
+  {
+    "episode": 25,
+    "promo_type": "single_continuous",
+    "total_duration": 39.0,
+    "start_time": "00:16.20",
+    "end_time": "00:55.20",
+    "segments": [
+      {
+        "episode": 25,
+        "start_time": "00:16.20",
+        "end_time": "00:55.20",
+        "duration": 39.0
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Physical/Action Disruption",
+      "description": "JULIANA: \"It is nothing.\"",
+      "analysis": "Strong Physical/Action Disruption: JULIANA: \"It is nothing.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 8.5,
+      "description": "ALEXANDER: \"Who?\"",
+      "analysis": "Unresolved tension: ALEXANDER: \"Who?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 94.3,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('JULIANA: \"It is nothing.\"'), clearly establishes the Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on ALEXANDER: \"Who?\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 12,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Who?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 25,
+    "promo_type": "single_continuous",
+    "total_duration": 25.9,
+    "start_time": "01:23.50",
+    "end_time": "01:49.40",
+    "segments": [
+      {
+        "episode": 25,
+        "start_time": "01:23.50",
+        "end_time": "01:49.40",
+        "duration": 25.9
+      }
+    ],
+    "hook": {
+      "score": 9.5,
+      "type": "Physical/Action Disruption",
+      "description": "JULIANA: \"Arsenic.\"",
+      "analysis": "Strong Physical/Action Disruption: JULIANA: \"Arsenic.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 8.5,
+      "description": "ALEXANDER: \"Alone?\"",
+      "analysis": "Unresolved tension: ALEXANDER: \"Alone?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 8.0,
+    "themes": [],
+    "pacing_score": 9.8,
+    "composite_score": 89.45,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('JULIANA: \"Arsenic.\"'), clearly establishes the dramatic tension conflict for cold viewers, and cuts at maximum tension on ALEXANDER: \"Alone?\" to drive app downloads.",
+    "viral_hook_caption": "POV: You realize the entire family set you up to fail.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 28,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Alone?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

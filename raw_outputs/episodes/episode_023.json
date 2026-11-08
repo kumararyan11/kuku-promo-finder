@@ -1,0 +1,115 @@
+[
+  {
+    "episode": 23,
+    "promo_type": "single_continuous",
+    "total_duration": 44.7,
+    "start_time": "00:01.80",
+    "end_time": "00:46.50",
+    "segments": [
+      {
+        "episode": 23,
+        "start_time": "00:01.80",
+        "end_time": "00:46.50",
+        "duration": 44.7
+      }
+    ],
+    "hook": {
+      "score": 5.5,
+      "type": "High-Conflict Confrontation",
+      "description": "PRUDENCE: \"Juliana, we cannot stay for long. Someone will come.\"",
+      "analysis": "Strong High-Conflict Confrontation: PRUDENCE: \"Juliana, we cannot stay for long. Someone will come.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 9.0,
+      "description": "Medium shot of Lady Juliana standing upright, her expression hardening with fier",
+      "analysis": "Unresolved tension: Medium shot of Lady Juliana standing upright, her expression hardening with fier. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 7.5,
+    "themes": [
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 75.95,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('PRUDENCE: \"Juliana, we cannot stay for long. Someone will come.\"'), clearly establishes the Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on Medium shot of Lady Juliana standing upright, her expression hardening with fier to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 78,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('This is not simply old age.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 23,
+    "promo_type": "single_continuous",
+    "total_duration": 38.5,
+    "start_time": "00:58.50",
+    "end_time": "01:37.00",
+    "segments": [
+      {
+        "episode": 23,
+        "start_time": "00:58.50",
+        "end_time": "01:37.00",
+        "duration": 38.5
+      }
+    ],
+    "hook": {
+      "score": 7.0,
+      "type": "High-Conflict Confrontation",
+      "description": "LADY JULIANA: \"Mother.\"",
+      "analysis": "Strong High-Conflict Confrontation: LADY JULIANA: \"Mother.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 5.5,
+      "description": "PRUDENCE: \"Can you save her?\"",
+      "analysis": "Unresolved tension: PRUDENCE: \"Can you save her?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 8.0,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 70.8,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('LADY JULIANA: \"Mother.\"'), clearly establishes the Cruel Family / Disownment, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on PRUDENCE: \"Can you save her?\" to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 86,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 3: Deep Mid-Series Escalation & Paywall Retargeting (Post Day 6+)",
+    "recommended_platform": "Meta Ads & TikTok Retargeting",
+    "posting_rationale": "Post THIRD. High-stakes conspiracy, poisonings, and estate battles re-engage warm users and push viewers past the free episode paywall.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Can you save her?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "episode": 36,
+    "promo_type": "single_continuous",
+    "total_duration": 29.75,
+    "start_time": "02:51.00",
+    "end_time": "03:20.75",
+    "segments": [
+      {
+        "episode": 36,
+        "start_time": "02:51.00",
+        "end_time": "03:20.75",
+        "duration": 29.75
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "ALEXANDER: \"They stole my home!\"",
+      "analysis": "Strong High-Conflict Confrontation: ALEXANDER: \"They stole my home!\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 10.0,
+      "description": "A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and r",
+      "analysis": "Unresolved tension: A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and r. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 98.8,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('ALEXANDER: \"They stole my home!\"'), clearly establishes the Betrayed Wedding, Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and r to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 2,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  },
+  {
+    "episode": 36,
+    "promo_type": "single_continuous",
+    "total_duration": 52.5,
+    "start_time": "01:43.50",
+    "end_time": "02:36.00",
+    "segments": [
+      {
+        "episode": 36,
+        "start_time": "01:43.50",
+        "end_time": "02:36.00",
+        "duration": 52.5
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Shock Dialogue",
+      "description": "ALEXANDER: \"Arrested?\"",
+      "analysis": "Strong Shock Dialogue: ALEXANDER: \"Arrested?\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 8.0,
+      "description": "A sudden dramatic metallic swell underscores the impending deadline.",
+      "analysis": "Unresolved tension: A sudden dramatic metallic swell underscores the impending deadline.. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 8.3,
+    "composite_score": 91.45,
+    "why_it_works": "Instantly stops scrolling with shock dialogue ('ALEXANDER: \"Arrested?\"'), clearly establishes the Betrayed Wedding, Cruel Family / Disownment, Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on A sudden dramatic metallic swell underscores the impending deadline. to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 16,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Two days from now.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

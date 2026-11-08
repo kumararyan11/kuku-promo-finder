@@ -1,0 +1,114 @@
+[
+  {
+    "episode": 29,
+    "promo_type": "single_continuous",
+    "total_duration": 40.7,
+    "start_time": "00:37.40",
+    "end_time": "01:18.10",
+    "segments": [
+      {
+        "episode": 29,
+        "start_time": "00:37.40",
+        "end_time": "01:18.10",
+        "duration": 40.7
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "CATHERINE: \"The magistrate will call it witchcraft.\"",
+      "analysis": "Strong High-Conflict Confrontation: CATHERINE: \"The magistrate will call it witchcraft.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 10.0,
+      "description": "CATHERINE: \"What exactly do you think a penniless veteran can do against Ashbrook?\"",
+      "analysis": "Unresolved tension: CATHERINE: \"What exactly do you think a penniless veteran can do against Ashbrook?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 98.8,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('CATHERINE: \"The magistrate will call it witchcraft.\"'), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on CATHERINE: \"What exactly do you think a penniless veteran can do against Ashbrook?\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 1,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('ss veteran can do against Ashbrook?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 29,
+    "promo_type": "single_continuous",
+    "total_duration": 21.7,
+    "start_time": "00:24.80",
+    "end_time": "00:46.50",
+    "segments": [
+      {
+        "episode": 29,
+        "start_time": "00:24.80",
+        "end_time": "00:46.50",
+        "duration": 21.7
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "CATHERINE: \"You still call this a legacy?\"",
+      "analysis": "Strong High-Conflict Confrontation: CATHERINE: \"You still call this a legacy?\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.5,
+      "description": "CATHERINE: \"I know exactly what I need him to believe.\"",
+      "analysis": "Unresolved tension: CATHERINE: \"I know exactly what I need him to believe.\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 4.5,
+    "themes": [],
+    "pacing_score": 8.3,
+    "composite_score": 75.95,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('CATHERINE: \"You still call this a legacy?\"'), clearly establishes the dramatic tension conflict for cold viewers, and cuts at maximum tension on CATHERINE: \"I know exactly what I need him to believe.\" to drive app downloads.",
+    "viral_hook_caption": "POV: You realize the entire family set you up to fail.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 79,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 3: Deep Mid-Series Escalation & Paywall Retargeting (Post Day 6+)",
+    "recommended_platform": "Meta Ads & TikTok Retargeting",
+    "posting_rationale": "Post THIRD. High-stakes conspiracy, poisonings, and estate battles re-engage warm users and push viewers past the free episode paywall.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('You cannot just destroy it!') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "episode": 38,
+    "promo_type": "single_continuous",
+    "total_duration": 42.41,
+    "start_time": "00:45.50",
+    "end_time": "01:27.91",
+    "segments": [
+      {
+        "episode": 38,
+        "start_time": "00:45.50",
+        "end_time": "01:27.91",
+        "duration": 42.41
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Physical/Action Disruption",
+      "description": "JULIANA: \"What if I die here?\"",
+      "analysis": "Strong Physical/Action Disruption: JULIANA: \"What if I die here?\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 8.5,
+      "description": "A sharp, high-tension dramatic swell strikes and echoes out into silence alongsi",
+      "analysis": "Unresolved tension: A sharp, high-tension dramatic swell strikes and echoes out into silence alongsi. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 94.3,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('JULIANA: \"What if I die here?\"'), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on A sharp, high-tension dramatic swell strikes and echoes out into silence alongsi to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 13,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  },
+  {
+    "episode": 38,
+    "promo_type": "single_continuous",
+    "total_duration": 22.7,
+    "start_time": "00:27.80",
+    "end_time": "00:50.50",
+    "segments": [
+      {
+        "episode": 38,
+        "start_time": "00:27.80",
+        "end_time": "00:50.50",
+        "duration": 22.7
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Physical/Action Disruption",
+      "description": "Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a ",
+      "analysis": "Strong Physical/Action Disruption: Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a . Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 8.5,
+      "description": "JULIANA: \"What if I never see you again?\"",
+      "analysis": "Unresolved tension: JULIANA: \"What if I never see you again?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 9.5,
+    "themes": [
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 8.9,
+    "composite_score": 92.85,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a '), clearly establishes the Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on JULIANA: \"What if I never see you again?\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 14,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('What if I never see you again?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

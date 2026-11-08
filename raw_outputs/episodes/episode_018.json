@@ -1,0 +1,106 @@
+[
+  {
+    "episode": 18,
+    "promo_type": "single_continuous",
+    "total_duration": 25.3,
+    "start_time": "00:56.20",
+    "end_time": "01:21.50",
+    "segments": [
+      {
+        "episode": 18,
+        "start_time": "00:56.20",
+        "end_time": "01:21.50",
+        "duration": 25.3
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Physical/Action Disruption",
+      "description": "Juliana spots the book and halts abruptly, pointing back toward the burning desk.",
+      "analysis": "Strong Physical/Action Disruption: Juliana spots the book and halts abruptly, pointing back toward the burning desk.. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 2.5,
+      "description": "Dramatic cut at unresolved tension",
+      "analysis": "Unresolved tension: Dramatic cut at unresolved tension. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 77.2,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('Juliana spots the book and halts abruptly, pointing back toward the burning desk.'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on Dramatic cut at unresolved tension to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 69,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  },
+  {
+    "episode": 18,
+    "promo_type": "single_continuous",
+    "total_duration": 25.4,
+    "start_time": "00:03.50",
+    "end_time": "00:28.90",
+    "segments": [
+      {
+        "episode": 18,
+        "start_time": "00:03.50",
+        "end_time": "00:28.90",
+        "duration": 25.4
+      }
+    ],
+    "hook": {
+      "score": 6.5,
+      "type": "High-Conflict Confrontation",
+      "description": "Juliana coughs, her eyes widening in immediate alarm as the smell of burning wood fills he",
+      "analysis": "Strong High-Conflict Confrontation: Juliana coughs, her eyes widening in immediate alarm as the smell of burning wood fills he. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 5.5,
+      "description": "JULIANA: \"What happened?\"",
+      "analysis": "Unresolved tension: JULIANA: \"What happened?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 9.5,
+    "themes": [
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 72.05,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('Juliana coughs, her eyes widening in immediate alarm as the smell of burning wood fills he'), clearly establishes the Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on JULIANA: \"What happened?\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 84,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Fire.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

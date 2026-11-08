@@ -1,0 +1,116 @@
+[
+  {
+    "episode": 43,
+    "promo_type": "single_continuous",
+    "total_duration": 37.4,
+    "start_time": "01:08.80",
+    "end_time": "01:46.20",
+    "segments": [
+      {
+        "episode": 43,
+        "start_time": "01:08.80",
+        "end_time": "01:46.20",
+        "duration": 37.4
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "ALEXANDER: \"You sold my men to the enemy.\"",
+      "analysis": "Strong High-Conflict Confrontation: ALEXANDER: \"You sold my men to the enemy.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 8.0,
+      "description": "CATHERINE: \"My Lord?\"",
+      "analysis": "Unresolved tension: CATHERINE: \"My Lord?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 9.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 90.8,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('ALEXANDER: \"You sold my men to the enemy.\"'), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on CATHERINE: \"My Lord?\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 25,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('My Lord?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 43,
+    "promo_type": "single_continuous",
+    "total_duration": 40.3,
+    "start_time": "00:16.20",
+    "end_time": "00:56.50",
+    "segments": [
+      {
+        "episode": 43,
+        "start_time": "00:16.20",
+        "end_time": "00:56.50",
+        "duration": 40.3
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "BLOND NOBLEMAN: \"I am Lord Rupert Ashburn!\"",
+      "analysis": "Strong High-Conflict Confrontation: BLOND NOBLEMAN: \"I am Lord Rupert Ashburn!\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.5,
+      "description": "CROWN OFFICIAL: \"Information regarding the Duke's position was transmitted through Brit\"",
+      "analysis": "Unresolved tension: CROWN OFFICIAL: \"Information regarding the Duke's position was transmitted through Brit\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 9.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 86.3,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('BLOND NOBLEMAN: \"I am Lord Rupert Ashburn!\"'), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on CROWN OFFICIAL: \"Information regarding the Duke's position was transmitted through Brit\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 37,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('No...') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

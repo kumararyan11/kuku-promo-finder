@@ -1,0 +1,118 @@
+[
+  {
+    "episode": 9,
+    "promo_type": "single_continuous",
+    "total_duration": 42.6,
+    "start_time": "00:34.90",
+    "end_time": "01:17.50",
+    "segments": [
+      {
+        "episode": 9,
+        "start_time": "00:34.90",
+        "end_time": "01:17.50",
+        "duration": 42.6
+      }
+    ],
+    "hook": {
+      "score": 7.5,
+      "type": "Physical/Action Disruption",
+      "description": "ALEXANDER: \"You're certain?\"",
+      "analysis": "Strong Physical/Action Disruption: ALEXANDER: \"You're certain?\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.5,
+      "description": "PEASANT MOTHER: \"I will tell the village what you did. They will never forget you.\"",
+      "analysis": "Unresolved tension: PEASANT MOTHER: \"I will tell the village what you did. They will never forget you.\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 79.55,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('ALEXANDER: \"You're certain?\"'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on PEASANT MOTHER: \"I will tell the village what you did. They will never forget you.\" to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 60,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('le village start talking about you.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 9,
+    "promo_type": "single_continuous",
+    "total_duration": 43.2,
+    "start_time": "00:12.00",
+    "end_time": "00:55.20",
+    "segments": [
+      {
+        "episode": 9,
+        "start_time": "00:12.00",
+        "end_time": "00:55.20",
+        "duration": 43.2
+      }
+    ],
+    "hook": {
+      "score": 6.0,
+      "type": "Shock Dialogue",
+      "description": "The trembling mother gently lays the feverish boy down atop the wooden table as Juliana le",
+      "analysis": "Strong Shock Dialogue: The trembling mother gently lays the feverish boy down atop the wooden table as Juliana le. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.5,
+      "description": "PEASANT MOTHER: \"Why isn't it working?\"",
+      "analysis": "Unresolved tension: PEASANT MOTHER: \"Why isn't it working?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 77.3,
+    "why_it_works": "Instantly stops scrolling with shock dialogue ('The trembling mother gently lays the feverish boy down atop the wooden table as Juliana le'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on PEASANT MOTHER: \"Why isn't it working?\" to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 67,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Wait.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

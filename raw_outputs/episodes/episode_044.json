@@ -1,0 +1,116 @@
+[
+  {
+    "episode": 44,
+    "promo_type": "single_continuous",
+    "total_duration": 32.4,
+    "start_time": "00:14.00",
+    "end_time": "00:46.40",
+    "segments": [
+      {
+        "episode": 44,
+        "start_time": "00:14.00",
+        "end_time": "00:46.40",
+        "duration": 32.4
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "A royal redcoat guard firmly forces Rupert down into the stone dust.",
+      "analysis": "Strong High-Conflict Confrontation: A royal redcoat guard firmly forces Rupert down into the stone dust.. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.5,
+      "description": "CATHERINE: \"You don't remember?\"",
+      "analysis": "Unresolved tension: CATHERINE: \"You don't remember?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 9.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 89.3,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('A royal redcoat guard firmly forces Rupert down into the stone dust.'), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on CATHERINE: \"You don't remember?\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 30,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('You don't remember?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 44,
+    "promo_type": "single_continuous",
+    "total_duration": 24.0,
+    "start_time": "00:46.40",
+    "end_time": "01:10.40",
+    "segments": [
+      {
+        "episode": 44,
+        "start_time": "00:46.40",
+        "end_time": "01:10.40",
+        "duration": 24.0
+      }
+    ],
+    "hook": {
+      "score": 8.0,
+      "type": "High-Conflict Confrontation",
+      "description": "CATHERINE: \"I was supposed to be your Duchess!\"",
+      "analysis": "Strong High-Conflict Confrontation: CATHERINE: \"I was supposed to be your Duchess!\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 5.5,
+      "description": "CATHERINE: \"Her?!\"",
+      "analysis": "Unresolved tension: CATHERINE: \"Her?!\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 8.3,
+    "composite_score": 76.95,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('CATHERINE: \"I was supposed to be your Duchess!\"'), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on CATHERINE: \"Her?!\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 72,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Her?!') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

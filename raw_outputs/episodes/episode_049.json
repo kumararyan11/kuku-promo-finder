@@ -1,0 +1,122 @@
+[
+  {
+    "episode": 49,
+    "promo_type": "single_continuous",
+    "total_duration": 37.1,
+    "start_time": "01:31.40",
+    "end_time": "02:08.50",
+    "segments": [
+      {
+        "episode": 49,
+        "start_time": "01:31.40",
+        "end_time": "02:08.50",
+        "duration": 37.1
+      }
+    ],
+    "hook": {
+      "score": 8.0,
+      "type": "High-Conflict Confrontation",
+      "description": "FATHER THOMAS: \"You want eyes inside the council chamber itself?\"",
+      "analysis": "Strong High-Conflict Confrontation: FATHER THOMAS: \"You want eyes inside the council chamber itself?\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.5,
+      "description": "FATHER THOMAS: \"Careful men still hang, my lady, when the crime is treason against a D\"",
+      "analysis": "Unresolved tension: FATHER THOMAS: \"Careful men still hang, my lady, when the crime is treason against a D\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 7.5,
+    "themes": [
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 77.2,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('FATHER THOMAS: \"You want eyes inside the council chamber itself?\"'), clearly establishes the Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on FATHER THOMAS: \"Careful men still hang, my lady, when the crime is treason against a D\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 71,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('en who help me also get remembered.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 49,
+    "promo_type": "single_continuous",
+    "total_duration": 31.0,
+    "start_time": "00:15.50",
+    "end_time": "00:46.50",
+    "segments": [
+      {
+        "episode": 49,
+        "start_time": "00:15.50",
+        "end_time": "00:46.50",
+        "duration": 31.0
+      }
+    ],
+    "hook": {
+      "score": 5.5,
+      "type": "High-Conflict Confrontation",
+      "description": "CATHERINE: \"Good. That's what I pay her for.\"",
+      "analysis": "Strong High-Conflict Confrontation: CATHERINE: \"Good. That's what I pay her for.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.0,
+      "description": "Close-up of Catherine's face hardening into a stern, focused expression.",
+      "analysis": "Unresolved tension: Close-up of Catherine's face hardening into a stern, focused expression.. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 7.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 68.95,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('CATHERINE: \"Good. That's what I pay her for.\"'), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on Close-up of Catherine's face hardening into a stern, focused expression. to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 90,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": false,
+      "qa_verdict": "REQUIRES EDITOR OVERRIDE",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('at morning. Let's keep it that way.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        },
+        {
+          "error_type": "False Stakes Peak (Low Protagonist Relevance)",
+          "severity": "HIGH",
+          "detail": "High acoustic/conflict markers detected, but neither lead protagonist (Juliana) nor primary antagonists/Duke are involved.",
+          "fix": "Deprecate from acquisition ads; reserve exclusively for in-app episodic recaps."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing.",
+        "Reject for paid acquisition ads."
+      ]
+    }
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "episode": 33,
+    "promo_type": "single_continuous",
+    "total_duration": 37.8,
+    "start_time": "00:21.00",
+    "end_time": "00:58.80",
+    "segments": [
+      {
+        "episode": 33,
+        "start_time": "00:21.00",
+        "end_time": "00:58.80",
+        "duration": 37.8
+      }
+    ],
+    "hook": {
+      "score": 8.0,
+      "type": "High-Conflict Confrontation",
+      "description": "LORD: \"What herbs?\"",
+      "analysis": "Strong High-Conflict Confrontation: LORD: \"What herbs?\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.5,
+      "description": "LORD: \"And did she perform anything unusual?\"",
+      "analysis": "Unresolved tension: LORD: \"And did she perform anything unusual?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 9.5,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 83.3,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('LORD: \"What herbs?\"'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on LORD: \"And did she perform anything unusual?\" to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 47,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('No!') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 33,
+    "promo_type": "single_continuous",
+    "total_duration": 27.5,
+    "start_time": "02:12.00",
+    "end_time": "02:39.50",
+    "segments": [
+      {
+        "episode": 33,
+        "start_time": "02:12.00",
+        "end_time": "02:39.50",
+        "duration": 27.5
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "LORD: \"That will be your testimony.\"",
+      "analysis": "Strong High-Conflict Confrontation: LORD: \"That will be your testimony.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.5,
+      "description": "LORD: \"And now... you will save your brother.\"",
+      "analysis": "Unresolved tension: LORD: \"And now... you will save your brother.\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 6.5,
+    "themes": [
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 82.2,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('LORD: \"That will be your testimony.\"'), clearly establishes the Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on LORD: \"And now... you will save your brother.\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 53,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": false,
+      "qa_verdict": "REQUIRES EDITOR OVERRIDE",
+      "detected_failures": [
+        {
+          "error_type": "False Stakes Peak (Low Protagonist Relevance)",
+          "severity": "HIGH",
+          "detail": "High acoustic/conflict markers detected, but neither lead protagonist (Juliana) nor primary antagonists/Duke are involved.",
+          "fix": "Deprecate from acquisition ads; reserve exclusively for in-app episodic recaps."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Reject for paid acquisition ads."
+      ]
+    }
+  }
+]

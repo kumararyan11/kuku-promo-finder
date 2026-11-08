@@ -1,0 +1,115 @@
+[
+  {
+    "episode": 27,
+    "promo_type": "single_continuous",
+    "total_duration": 48.7,
+    "start_time": "00:31.80",
+    "end_time": "01:20.50",
+    "segments": [
+      {
+        "episode": 27,
+        "start_time": "00:31.80",
+        "end_time": "01:20.50",
+        "duration": 48.7
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "JULIANA: \"Your son? He told me he was only a sergeant.\"",
+      "analysis": "Strong High-Conflict Confrontation: JULIANA: \"Your son? He told me he was only a sergeant.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 8.5,
+      "description": "LADY CATHERINE: \"Who permitted you to give medicine to the Duchess?\"",
+      "analysis": "Unresolved tension: LADY CATHERINE: \"Who permitted you to give medicine to the Duchess?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 9.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 8.3,
+    "composite_score": 90.95,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('JULIANA: \"Your son? He told me he was only a sergeant.\"'), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on LADY CATHERINE: \"Who permitted you to give medicine to the Duchess?\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 24,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('ou to give medicine to the Duchess?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 27,
+    "promo_type": "single_continuous",
+    "total_duration": 49.6,
+    "start_time": "01:23.00",
+    "end_time": "02:12.60",
+    "segments": [
+      {
+        "episode": 27,
+        "start_time": "01:23.00",
+        "end_time": "02:12.60",
+        "duration": 49.6
+      }
+    ],
+    "hook": {
+      "score": 9.0,
+      "type": "High-Conflict Confrontation",
+      "description": "LADY CATHERINE: \"Then you administered it without permission.\"",
+      "analysis": "Strong High-Conflict Confrontation: LADY CATHERINE: \"Then you administered it without permission.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 9.0,
+      "description": "Close-up of Juliana recoiling in shock at the blatant lie.",
+      "analysis": "Unresolved tension: Close-up of Juliana recoiling in shock at the blatant lie.. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 7.5,
+    "themes": [
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 8.3,
+    "composite_score": 85.95,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('LADY CATHERINE: \"Then you administered it without permission.\"'), clearly establishes the Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on Close-up of Juliana recoiling in shock at the blatant lie. to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 40,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Enough.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

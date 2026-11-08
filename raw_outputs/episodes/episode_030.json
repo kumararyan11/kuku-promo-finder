@@ -1,0 +1,121 @@
+[
+  {
+    "episode": 30,
+    "promo_type": "single_continuous",
+    "total_duration": 38.7,
+    "start_time": "01:22.80",
+    "end_time": "02:01.50",
+    "segments": [
+      {
+        "episode": 30,
+        "start_time": "01:22.80",
+        "end_time": "02:01.50",
+        "duration": 38.7
+      }
+    ],
+    "hook": {
+      "score": 6.0,
+      "type": "Shock Dialogue",
+      "description": "CATHERINE: \"And if she claims she is a healer?\"",
+      "analysis": "Strong Shock Dialogue: CATHERINE: \"And if she claims she is a healer?\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 5.5,
+      "description": "RUPERT: \"And Juliana?\"",
+      "analysis": "Unresolved tension: RUPERT: \"And Juliana?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 7.5,
+    "themes": [
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 67.2,
+    "why_it_works": "Instantly stops scrolling with shock dialogue ('CATHERINE: \"And if she claims she is a healer?\"'), clearly establishes the Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on RUPERT: \"And Juliana?\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 92,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('And Juliana?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 30,
+    "promo_type": "single_continuous",
+    "total_duration": 30.0,
+    "start_time": "00:13.50",
+    "end_time": "00:43.50",
+    "segments": [
+      {
+        "episode": 30,
+        "start_time": "00:13.50",
+        "end_time": "00:43.50",
+        "duration": 30.0
+      }
+    ],
+    "hook": {
+      "score": 5.0,
+      "type": "Shock Dialogue",
+      "description": "RUPERT: \"The Ashcroft girl is locked tight. Nobody knows she is down there.\"",
+      "analysis": "Strong Shock Dialogue: RUPERT: \"The Ashcroft girl is locked tight. Nobody knows she is down there.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.5,
+      "description": "RUPERT: \"What are you suggesting?\"",
+      "analysis": "Unresolved tension: RUPERT: \"What are you suggesting?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 5.5,
+    "themes": [
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 65.7,
+    "why_it_works": "Instantly stops scrolling with shock dialogue ('RUPERT: \"The Ashcroft girl is locked tight. Nobody knows she is down there.\"'), clearly establishes the Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on RUPERT: \"What are you suggesting?\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 96,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": false,
+      "qa_verdict": "REQUIRES EDITOR OVERRIDE",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('What are you suggesting?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        },
+        {
+          "error_type": "False Stakes Peak (Low Protagonist Relevance)",
+          "severity": "HIGH",
+          "detail": "High acoustic/conflict markers detected, but neither lead protagonist (Juliana) nor primary antagonists/Duke are involved.",
+          "fix": "Deprecate from acquisition ads; reserve exclusively for in-app episodic recaps."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing.",
+        "Reject for paid acquisition ads."
+      ]
+    }
+  }
+]

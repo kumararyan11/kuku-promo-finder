@@ -1,0 +1,532 @@
+[
+  {
+    "episode": 29,
+    "promo_type": "single_continuous",
+    "total_duration": 40.7,
+    "start_time": "00:37.40",
+    "end_time": "01:18.10",
+    "segments": [
+      {
+        "episode": 29,
+        "start_time": "00:37.40",
+        "end_time": "01:18.10",
+        "duration": 40.7
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "CATHERINE: \"The magistrate will call it witchcraft.\"",
+      "analysis": "Strong High-Conflict Confrontation: CATHERINE: \"The magistrate will call it witchcraft.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 10.0,
+      "description": "CATHERINE: \"What exactly do you think a penniless veteran can do against Ashbrook?\"",
+      "analysis": "Unresolved tension: CATHERINE: \"What exactly do you think a penniless veteran can do against Ashbrook?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 98.8,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('CATHERINE: \"The magistrate will call it witchcraft.\"'), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on CATHERINE: \"What exactly do you think a penniless veteran can do against Ashbrook?\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 1,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('ss veteran can do against Ashbrook?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 36,
+    "promo_type": "single_continuous",
+    "total_duration": 29.75,
+    "start_time": "02:51.00",
+    "end_time": "03:20.75",
+    "segments": [
+      {
+        "episode": 36,
+        "start_time": "02:51.00",
+        "end_time": "03:20.75",
+        "duration": 29.75
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "ALEXANDER: \"They stole my home!\"",
+      "analysis": "Strong High-Conflict Confrontation: ALEXANDER: \"They stole my home!\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 10.0,
+      "description": "A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and r",
+      "analysis": "Unresolved tension: A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and r. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 98.8,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('ALEXANDER: \"They stole my home!\"'), clearly establishes the Betrayed Wedding, Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and r to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 2,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  },
+  {
+    "episode": 31,
+    "promo_type": "single_continuous",
+    "total_duration": 42.5,
+    "start_time": "00:09.50",
+    "end_time": "00:52.00",
+    "segments": [
+      {
+        "episode": 31,
+        "start_time": "00:09.50",
+        "end_time": "00:52.00",
+        "duration": 42.5
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "CATHERINE: \"The great Lady Juliana Ashcroft.\"",
+      "analysis": "Strong High-Conflict Confrontation: CATHERINE: \"The great Lady Juliana Ashcroft.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 9.5,
+      "description": "CATHERINE: \"Do you remember?\"",
+      "analysis": "Unresolved tension: CATHERINE: \"Do you remember?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 98.2,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('CATHERINE: \"The great Lady Juliana Ashcroft.\"'), clearly establishes the Betrayed Wedding, Cruel Family / Disownment conflict for cold viewers, and cuts at maximum tension on CATHERINE: \"Do you remember?\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 3,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  },
+  {
+    "episode": 1,
+    "promo_type": "multi_segment",
+    "total_duration": 37.3,
+    "start_time": "00:11.00",
+    "end_time": "02:18.00",
+    "segments": [
+      {
+        "episode": 1,
+        "start_time": "00:11.00",
+        "end_time": "00:32.80",
+        "duration": 21.8
+      },
+      {
+        "episode": 1,
+        "start_time": "02:02.50",
+        "end_time": "02:18.00",
+        "duration": 15.5
+      }
+    ],
+    "hook": {
+      "score": 8.5,
+      "type": "High-Conflict Confrontation",
+      "description": "MATRIARCH: \"You should turn around, Juliana.\"",
+      "analysis": "Strong High-Conflict Confrontation: MATRIARCH: \"You should turn around, Juliana.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 10.0,
+      "description": "Solemn low-pitched string drone swells to an ominous cliffhanger peak.",
+      "analysis": "Unresolved tension: Solemn low-pitched string drone swells to an ominous cliffhanger peak.. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 97.55,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('MATRIARCH: \"You should turn around, Juliana.\"'), clearly establishes the Betrayed Wedding, Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on Solemn low-pitched string drone swells to an ominous cliffhanger peak. to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 4,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  },
+  {
+    "episode": 11,
+    "promo_type": "single_continuous",
+    "total_duration": 40.2,
+    "start_time": "01:01.80",
+    "end_time": "01:42.00",
+    "segments": [
+      {
+        "episode": 11,
+        "start_time": "01:01.80",
+        "end_time": "01:42.00",
+        "duration": 40.2
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "JULIANA: \"Please! There is nothing here!\"",
+      "analysis": "Strong High-Conflict Confrontation: JULIANA: \"Please! There is nothing here!\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 9.5,
+      "description": "Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock",
+      "analysis": "Unresolved tension: Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 97.3,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('JULIANA: \"Please! There is nothing here!\"'), clearly establishes the Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 5,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  },
+  {
+    "episode": 15,
+    "promo_type": "single_continuous",
+    "total_duration": 38.2,
+    "start_time": "00:47.80",
+    "end_time": "01:26.00",
+    "segments": [
+      {
+        "episode": 15,
+        "start_time": "00:47.80",
+        "end_time": "01:26.00",
+        "duration": 38.2
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Physical/Action Disruption",
+      "description": "JULIANA: \"Ah!\"",
+      "analysis": "Strong Physical/Action Disruption: JULIANA: \"Ah!\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 9.0,
+      "description": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+      "analysis": "Unresolved tension: Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 96.7,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('JULIANA: \"Ah!\"'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on Tense, low dramatic cello swell holding into an abrupt cliffhanger cut. to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 6,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  },
+  {
+    "episode": 46,
+    "promo_type": "single_continuous",
+    "total_duration": 28.4,
+    "start_time": "00:20.60",
+    "end_time": "00:49.00",
+    "segments": [
+      {
+        "episode": 46,
+        "start_time": "00:20.60",
+        "end_time": "00:49.00",
+        "duration": 28.4
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "HIGH PRIEST: \"You married this woman as a nameless beggar...\"",
+      "analysis": "Strong High-Conflict Confrontation: HIGH PRIEST: \"You married this woman as a nameless beggar...\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 9.0,
+      "description": "HIGH PRIEST: \"No Crown license was sought, because no one thought to ask leave for a\"",
+      "analysis": "Unresolved tension: HIGH PRIEST: \"No Crown license was sought, because no one thought to ask leave for a\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 96.7,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('HIGH PRIEST: \"You married this woman as a nameless beggar...\"'), clearly establishes the Betrayed Wedding, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on HIGH PRIEST: \"No Crown license was sought, because no one thought to ask leave for a\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 7,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('No licensed clergyman presided...') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 2,
+    "promo_type": "single_continuous",
+    "total_duration": 37.7,
+    "start_time": "00:44.80",
+    "end_time": "01:22.50",
+    "segments": [
+      {
+        "episode": 2,
+        "start_time": "00:44.80",
+        "end_time": "01:22.50",
+        "duration": 37.7
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "LADY JULIANA: \"You won't even look at me.\"",
+      "analysis": "Strong High-Conflict Confrontation: LADY JULIANA: \"You won't even look at me.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 9.0,
+      "description": "LADY JULIANA: \"You abandoned a woman who trusted you...\"",
+      "analysis": "Unresolved tension: LADY JULIANA: \"You abandoned a woman who trusted you...\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 95.8,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('LADY JULIANA: \"You won't even look at me.\"'), clearly establishes the Betrayed Wedding, Cruel Family / Disownment, Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on LADY JULIANA: \"You abandoned a woman who trusted you...\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 8,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('ised you greater beauty and wealth.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 32,
+    "promo_type": "single_continuous",
+    "total_duration": 33.0,
+    "start_time": "00:16.00",
+    "end_time": "00:49.00",
+    "segments": [
+      {
+        "episode": 32,
+        "start_time": "00:16.00",
+        "end_time": "00:49.00",
+        "duration": 33.0
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Physical/Action Disruption",
+      "description": "CATHERINE: \"Say goodbye to your mother.\"",
+      "analysis": "Strong Physical/Action Disruption: CATHERINE: \"Say goodbye to your mother.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 10.0,
+      "description": "CATHERINE: \"A disgraced woman?\"",
+      "analysis": "Unresolved tension: CATHERINE: \"A disgraced woman?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 8.5,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 95.8,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('CATHERINE: \"Say goodbye to your mother.\"'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on CATHERINE: \"A disgraced woman?\" to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 9,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('A disgraced woman?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 1,
+    "promo_type": "single_continuous",
+    "total_duration": 58.5,
+    "start_time": "01:19.00",
+    "end_time": "02:17.50",
+    "segments": [
+      {
+        "episode": 1,
+        "start_time": "01:19.00",
+        "end_time": "02:17.50",
+        "duration": 58.5
+      }
+    ],
+    "hook": {
+      "score": 9.5,
+      "type": "Physical/Action Disruption",
+      "description": "Juliana turns abruptly toward the first row of pews, where her elderly father sits grippin",
+      "analysis": "Strong Physical/Action Disruption: Juliana turns abruptly toward the first row of pews, where her elderly father sits grippin. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 10.0,
+      "description": "Solemn low-pitched string drone swells to an ominous cliffhanger peak.",
+      "analysis": "Unresolved tension: Solemn low-pitched string drone swells to an ominous cliffhanger peak.. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 7.4,
+    "composite_score": 94.35,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('Juliana turns abruptly toward the first row of pews, where her elderly father sits grippin'), clearly establishes the Betrayed Wedding, Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on Solemn low-pitched string drone swells to an ominous cliffhanger peak. to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 10,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [
+        "Duration > 58s risks user drop-off before cliffhanger on vertical feeds."
+      ],
+      "editor_recommendations": []
+    }
+  }
+]

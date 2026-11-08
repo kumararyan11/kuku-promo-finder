@@ -1,0 +1,117 @@
+[
+  {
+    "episode": 21,
+    "promo_type": "single_continuous",
+    "total_duration": 53.7,
+    "start_time": "00:45.50",
+    "end_time": "01:39.20",
+    "segments": [
+      {
+        "episode": 21,
+        "start_time": "00:45.50",
+        "end_time": "01:39.20",
+        "duration": 53.7
+      }
+    ],
+    "hook": {
+      "score": 8.5,
+      "type": "High-Conflict Confrontation",
+      "description": "Lady Juliana rushes in, sets the ledger on the rustic wooden table, and quickly flips open",
+      "analysis": "Strong High-Conflict Confrontation: Lady Juliana rushes in, sets the ledger on the rustic wooden table, and quickly flips open. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.5,
+      "description": "LADY JULIANA: \"What do you mean? Is someone ill? The Dowager Duchess?\"",
+      "analysis": "Unresolved tension: LADY JULIANA: \"What do you mean? Is someone ill? The Dowager Duchess?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 9.5,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 8.3,
+    "composite_score": 83.7,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('Lady Juliana rushes in, sets the ledger on the rustic wooden table, and quickly flips open'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on LADY JULIANA: \"What do you mean? Is someone ill? The Dowager Duchess?\" to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 46,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('s someone ill? The Dowager Duchess?') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 21,
+    "promo_type": "single_continuous",
+    "total_duration": 25.3,
+    "start_time": "00:15.10",
+    "end_time": "00:40.40",
+    "segments": [
+      {
+        "episode": 21,
+        "start_time": "00:15.10",
+        "end_time": "00:40.40",
+        "duration": 25.3
+      }
+    ],
+    "hook": {
+      "score": 7.5,
+      "type": "Shock Dialogue",
+      "description": "LADY JULIANA: \"Tell me what the apothecary said. Did he not give you medicine?\"",
+      "analysis": "Strong Shock Dialogue: LADY JULIANA: \"Tell me what the apothecary said. Did he not give you medicine?\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 4.5,
+      "description": "LADY JULIANA: \"Stand up. Sinking to your knees will not save him. Let me grab my ledg\"",
+      "analysis": "Unresolved tension: LADY JULIANA: \"Stand up. Sinking to your knees will not save him. Let me grab my ledg\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 8.5,
+    "themes": [
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 70.55,
+    "why_it_works": "Instantly stops scrolling with shock dialogue ('LADY JULIANA: \"Tell me what the apothecary said. Did he not give you medicine?\"'), clearly establishes the Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on LADY JULIANA: \"Stand up. Sinking to your knees will not save him. Let me grab my ledg\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 88,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('. Let me grab my ledger. We go now.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

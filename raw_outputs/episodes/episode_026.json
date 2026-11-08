@@ -1,0 +1,107 @@
+[
+  {
+    "episode": 26,
+    "promo_type": "single_continuous",
+    "total_duration": 33.3,
+    "start_time": "00:52.50",
+    "end_time": "01:25.80",
+    "segments": [
+      {
+        "episode": 26,
+        "start_time": "00:52.50",
+        "end_time": "01:25.80",
+        "duration": 33.3
+      }
+    ],
+    "hook": {
+      "score": 7.0,
+      "type": "High-Conflict Confrontation",
+      "description": "The Duchess clutches the blanket against her chest, her breathing quickening with dismay.",
+      "analysis": "Strong High-Conflict Confrontation: The Duchess clutches the blanket against her chest, her breathing quickening with dismay.. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.0,
+      "description": "Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance.",
+      "analysis": "Unresolved tension: Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance.. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 8.5,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 77.2,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('The Duchess clutches the blanket against her chest, her breathing quickening with dismay.'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance. to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 70,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('ng left in this world but my honor.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 26,
+    "promo_type": "single_continuous",
+    "total_duration": 39.9,
+    "start_time": "01:19.60",
+    "end_time": "01:59.50",
+    "segments": [
+      {
+        "episode": 26,
+        "start_time": "01:19.60",
+        "end_time": "01:59.50",
+        "duration": 39.9
+      }
+    ],
+    "hook": {
+      "score": 6.0,
+      "type": "Shock Dialogue",
+      "description": "JULIANA: \"Because my family cast me out to rot. I have nothing left in this worl\"",
+      "analysis": "Strong Shock Dialogue: JULIANA: \"Because my family cast me out to rot. I have nothing left in this worl\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 8.0,
+      "description": "DOWAGER DUCHESS: \"Where... where... Where did you get this ring? Speak to me!\"",
+      "analysis": "Unresolved tension: DOWAGER DUCHESS: \"Where... where... Where did you get this ring? Speak to me!\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 8.5,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 76.7,
+    "why_it_works": "Instantly stops scrolling with shock dialogue ('JULIANA: \"Because my family cast me out to rot. I have nothing left in this worl\"'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on DOWAGER DUCHESS: \"Where... where... Where did you get this ring? Speak to me!\" to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 74,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  }
+]

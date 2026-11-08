@@ -1,0 +1,117 @@
+[
+  {
+    "episode": 19,
+    "promo_type": "single_continuous",
+    "total_duration": 27.3,
+    "start_time": "01:01.60",
+    "end_time": "01:28.90",
+    "segments": [
+      {
+        "episode": 19,
+        "start_time": "01:01.60",
+        "end_time": "01:28.90",
+        "duration": 27.3
+      }
+    ],
+    "hook": {
+      "score": 5.5,
+      "type": "High-Conflict Confrontation",
+      "description": "INFORMANT: \"And Lady Catherine, she behaves as though she is already the future du\"",
+      "analysis": "Strong High-Conflict Confrontation: INFORMANT: \"And Lady Catherine, she behaves as though she is already the future du\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.5,
+      "description": "INFORMANT: \"And when we have the proof?\"",
+      "analysis": "Unresolved tension: INFORMANT: \"And when we have the proof?\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 8.5,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 72.55,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('INFORMANT: \"And Lady Catherine, she behaves as though she is already the future du\"'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on INFORMANT: \"And when we have the proof?\" to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 83,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('rg will remember who it belongs to.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 19,
+    "promo_type": "single_continuous",
+    "total_duration": 31.4,
+    "start_time": "00:01.80",
+    "end_time": "00:33.20",
+    "segments": [
+      {
+        "episode": 19,
+        "start_time": "00:01.80",
+        "end_time": "00:33.20",
+        "duration": 31.4
+      }
+    ],
+    "hook": {
+      "score": 3.5,
+      "type": "Shock Dialogue",
+      "description": "JULIANA: \"This was our home.\"",
+      "analysis": "Strong Shock Dialogue: JULIANA: \"This was our home.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.5,
+      "description": "Alexander steps forward and accepts the thick folded blankets and a wooden bucke",
+      "analysis": "Unresolved tension: Alexander steps forward and accepts the thick folded blankets and a wooden bucke. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 65.55,
+    "why_it_works": "Instantly stops scrolling with shock dialogue ('JULIANA: \"This was our home.\"'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on Alexander steps forward and accepts the thick folded blankets and a wooden bucke to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 97,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('We will not forget this kindness.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

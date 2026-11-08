@@ -1,0 +1,119 @@
+[
+  {
+    "episode": 2,
+    "promo_type": "single_continuous",
+    "total_duration": 37.7,
+    "start_time": "00:44.80",
+    "end_time": "01:22.50",
+    "segments": [
+      {
+        "episode": 2,
+        "start_time": "00:44.80",
+        "end_time": "01:22.50",
+        "duration": 37.7
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "LADY JULIANA: \"You won't even look at me.\"",
+      "analysis": "Strong High-Conflict Confrontation: LADY JULIANA: \"You won't even look at me.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 9.0,
+      "description": "LADY JULIANA: \"You abandoned a woman who trusted you...\"",
+      "analysis": "Unresolved tension: LADY JULIANA: \"You abandoned a woman who trusted you...\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 95.8,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('LADY JULIANA: \"You won't even look at me.\"'), clearly establishes the Betrayed Wedding, Cruel Family / Disownment, Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on LADY JULIANA: \"You abandoned a woman who trusted you...\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 8,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('ised you greater beauty and wealth.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 2,
+    "promo_type": "single_continuous",
+    "total_duration": 44.7,
+    "start_time": "00:00.00",
+    "end_time": "00:44.70",
+    "segments": [
+      {
+        "episode": 2,
+        "start_time": "00:00.00",
+        "end_time": "00:44.70",
+        "duration": 44.7
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Physical/Action Disruption",
+      "description": "THE FORMER GROOM: \"I cannot marry you, Juliana.\"",
+      "analysis": "Strong Physical/Action Disruption: THE FORMER GROOM: \"I cannot marry you, Juliana.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 7.0,
+      "description": "Close-up on the father's hardening eyes, entirely unsympathetic.",
+      "analysis": "Unresolved tension: Close-up on the father's hardening eyes, entirely unsympathetic.. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 89.8,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('THE FORMER GROOM: \"I cannot marry you, Juliana.\"'), clearly establishes the Betrayed Wedding, Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on Close-up on the father's hardening eyes, entirely unsympathetic. to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 27,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Do not disgrace us further.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

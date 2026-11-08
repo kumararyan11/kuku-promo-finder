@@ -1,0 +1,108 @@
+[
+  {
+    "episode": 15,
+    "promo_type": "single_continuous",
+    "total_duration": 38.2,
+    "start_time": "00:47.80",
+    "end_time": "01:26.00",
+    "segments": [
+      {
+        "episode": 15,
+        "start_time": "00:47.80",
+        "end_time": "01:26.00",
+        "duration": 38.2
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Physical/Action Disruption",
+      "description": "JULIANA: \"Ah!\"",
+      "analysis": "Strong Physical/Action Disruption: JULIANA: \"Ah!\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 9.0,
+      "description": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+      "analysis": "Unresolved tension: Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 96.7,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('JULIANA: \"Ah!\"'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on Tense, low dramatic cello swell holding into an abrupt cliffhanger cut. to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 6,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  },
+  {
+    "episode": 15,
+    "promo_type": "single_continuous",
+    "total_duration": 40.5,
+    "start_time": "00:03.50",
+    "end_time": "00:44.00",
+    "segments": [
+      {
+        "episode": 15,
+        "start_time": "00:03.50",
+        "end_time": "00:44.00",
+        "duration": 40.5
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "Physical/Action Disruption",
+      "description": "The thug brutally smashes his club down into a wooden planter box, shattering the frame.",
+      "analysis": "Strong Physical/Action Disruption: The thug brutally smashes his club down into a wooden planter box, shattering the frame.. Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.5,
+      "description": "THUG WITH CAP: \"A noble lady playing in the dirt. What a joke.\"",
+      "analysis": "Unresolved tension: THUG WITH CAP: \"A noble lady playing in the dirt. What a joke.\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 8.5,
+    "themes": [
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 9.2,
+    "composite_score": 85.3,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('The thug brutally smashes his club down into a wooden planter box, shattering the frame.'), clearly establishes the Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on THUG WITH CAP: \"A noble lady playing in the dirt. What a joke.\" to drive app downloads.",
+    "viral_hook_caption": "He looks like a broken soldier. He's actually the Duke.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 42,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line (' no right to destroy anything here.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]

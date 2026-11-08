@@ -1,0 +1,173 @@
+[
+  {
+    "episode": 5,
+    "promo_type": "single_continuous",
+    "total_duration": 55.0,
+    "start_time": "00:55.50",
+    "end_time": "01:50.50",
+    "segments": [
+      {
+        "episode": 5,
+        "start_time": "00:55.50",
+        "end_time": "01:50.50",
+        "duration": 55.0
+      }
+    ],
+    "hook": {
+      "score": 10.0,
+      "type": "High-Conflict Confrontation",
+      "description": "JULIANA: \"Barbara, don't!\"",
+      "analysis": "Strong High-Conflict Confrontation: JULIANA: \"Barbara, don't!\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.0,
+      "description": "Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral",
+      "analysis": "Unresolved tension: Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 8.9,
+    "composite_score": 86.35,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('JULIANA: \"Barbara, don't!\"'), clearly establishes the Betrayed Wedding, Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 36,
+    "tier": "Tier 1 (S-Rank - Hero Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [],
+      "warnings": [],
+      "editor_recommendations": []
+    }
+  },
+  {
+    "episode": 5,
+    "promo_type": "single_continuous",
+    "total_duration": 44.2,
+    "start_time": "00:00.00",
+    "end_time": "00:44.20",
+    "segments": [
+      {
+        "episode": 5,
+        "start_time": "00:00.00",
+        "end_time": "00:44.20",
+        "duration": 44.2
+      }
+    ],
+    "hook": {
+      "score": 7.0,
+      "type": "Physical/Action Disruption",
+      "description": "Juliana grips the heirloom ledger tightly against her waist, her posture resolute despite ",
+      "analysis": "Strong Physical/Action Disruption: Juliana grips the heirloom ledger tightly against her waist, her posture resolute despite . Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 6.5,
+      "description": "JULIANA: \"No, Father. You chose that long before today.\"",
+      "analysis": "Unresolved tension: JULIANA: \"No, Father. You chose that long before today.\". Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Betrayed Wedding",
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power"
+    ],
+    "pacing_score": 9.8,
+    "composite_score": 78.7,
+    "why_it_works": "Instantly stops scrolling with physical/action disruption ('Juliana grips the heirloom ledger tightly against her waist, her posture resolute despite '), clearly establishes the Betrayed Wedding, Cruel Family / Disownment, Secret Duke / Hidden Power conflict for cold viewers, and cuts at maximum tension on JULIANA: \"No, Father. You chose that long before today.\" to drive app downloads.",
+    "viral_hook_caption": "Ditched at the altar for her own sister... then he stepped up.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 62,
+    "tier": "Tier 2 (A-Rank - Core Test Ad)",
+    "posting_phase": "Phase 1: Top-of-Funnel Outrage & Acquisition (Post Day 1-2)",
+    "recommended_platform": "TikTok & Meta Reels (Broad Interest Targeting)",
+    "posting_rationale": "Post FIRST. The altar betrayal and public humiliation evoke universal moral outrage. Delivers the highest 3-second thumbstop rate (>45%) and lowest Cost-Per-Click (CPC) to pull fresh cold viewers.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('Enough sentiment.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  },
+  {
+    "episode": 5,
+    "promo_type": "multi_segment",
+    "total_duration": 47.8,
+    "start_time": "00:10.50",
+    "end_time": "00:24.90",
+    "segments": [
+      {
+        "episode": 5,
+        "start_time": "00:10.50",
+        "end_time": "00:33.40",
+        "duration": 22.9
+      },
+      {
+        "episode": 10,
+        "start_time": "00:00.00",
+        "end_time": "00:24.90",
+        "duration": 24.9
+      }
+    ],
+    "hook": {
+      "score": 6.0,
+      "type": "High-Conflict Confrontation",
+      "description": "JULIANA: \"The vows are spoken, Father. I am his wife now.\"",
+      "analysis": "Strong High-Conflict Confrontation: JULIANA: \"The vows are spoken, Father. I am his wife now.\". Arrests feed scroll in < 2.5s."
+    },
+    "cliffhanger": {
+      "score": 2.5,
+      "description": "Dramatic cut at unresolved tension",
+      "analysis": "Unresolved tension: Dramatic cut at unresolved tension. Creates high FOMO / tap-to-watch impulse."
+    },
+    "standalone_comprehensibility": 10.0,
+    "themes": [
+      "Cruel Family / Disownment",
+      "Secret Duke / Hidden Power",
+      "Life or Death / Rescue"
+    ],
+    "pacing_score": 8.3,
+    "composite_score": 64.95,
+    "why_it_works": "Instantly stops scrolling with high-conflict confrontation ('JULIANA: \"The vows are spoken, Father. I am his wife now.\"'), clearly establishes the Cruel Family / Disownment, Secret Duke / Hidden Power, Life or Death / Rescue conflict for cold viewers, and cuts at maximum tension on Dramatic cut at unresolved tension to drive app downloads.",
+    "viral_hook_caption": "They threw her mother's memory into the mud. Big mistake.",
+    "model_used": "Built-in Expert Engine (Microdrama Benchmark v2.1)",
+    "rank": 99,
+    "tier": "Tier 3 (B-Rank - Retargeting Ad)",
+    "posting_phase": "Phase 2: High-Conversion Identity Reveal & Vindication (Post Day 3-5)",
+    "recommended_platform": "Instagram Reels & YouTube Shorts (Conversion-Optimized)",
+    "posting_rationale": "Post SECOND. Contrast between broken soldier and royal Duke triggers irresistible catharsis. Highest click-to-install and episode unlock conversion rate among viewers intrigued by Phase 1 ads.",
+    "qa_audit": {
+      "passed_qa": true,
+      "qa_verdict": "APPROVED FOR BROADCAST",
+      "detected_failures": [
+        {
+          "error_type": "Clipped Punchline Reaction",
+          "severity": "MEDIUM",
+          "detail": "Promo ends abruptly on dialogue line ('It is only a scratch.') without trailing reaction shot or silence buffer.",
+          "fix": "Extend clip end by +1.2s to capture protagonist facial reaction shot and dramatic cliffhanger beat."
+        }
+      ],
+      "warnings": [],
+      "editor_recommendations": [
+        "Extend end timestamp by +1.5s for emotional landing."
+      ]
+    }
+  }
+]
