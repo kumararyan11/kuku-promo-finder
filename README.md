@@ -167,4 +167,3 @@ Screenplay TXT (50 Eps) ──▶ [Screenplay Parser] (Regex State Machine)
 
 1. **Solution Document (PDF, up to 2 pages):** Located at [`docs/solution_doc.pdf`](docs/solution_doc.pdf).
 2. **Raw Outputs Folder:** Located at [`raw_outputs/`](raw_outputs/).
-3. **Walkthrough Video Script:** Located at [`WALKTHROUGH_SCRIPT.md`](WALKTHROUGH_SCRIPT.md).
